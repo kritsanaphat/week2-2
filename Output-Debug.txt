@@ -1,0 +1,18 @@
+﻿'week2-2.exe' (Win32): Loaded 'C:\Users\Kritsanaphat\source\repos\week2-2\Debug\week2-2.exe'. Symbols loaded.
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x450 has exited with code 0 (0x0).
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'week2-2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+The thread 0x6664 has exited with code 0 (0x0).
+The thread 0x61ac has exited with code 0 (0x0).
+The thread 0xe70 has exited with code 0 (0x0).
+The program '[8844] week2-2.exe' has exited with code 0 (0x0).
